@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atiq
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Flutter projects
+- 🌱 I’m currently learning NexT.js and Solidity
+- 💞️ I’m looking to collaborate on React projects
 - 📫 Contact at atiqqq0@gmail.com
 
 <!---
