@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atiq
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning NexT.js and Solidity
-- 💞️ I’m looking to collaborate on React projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning NexT.js
+- 💞️ I’m looking to collaborate on React and Node projects
 - 📫 Contact at atiqqq0@gmail.com
 
 <!---
