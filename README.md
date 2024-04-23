@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atiq
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NexT.js alongside Rust
+- 🌱 I’m currently learning Next.js alongside Rust
 - 💞️ I’m looking to collaborate on React and Node projects
 - 📫 Contact at atiqqq0@gmail.com
 
