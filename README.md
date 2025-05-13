@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing sleek user-friendly interfaces.
 - 🌱 I’m currently learning React and exploring Rust
 - I’m looking to collaborate on React and Node projects
-- 📫 Contact at atiqqq0@gmail.com
+- 📫 Contact at hello@maybeatiq.dev
 
 <!---
 EnGeniuss/EnGeniuss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
